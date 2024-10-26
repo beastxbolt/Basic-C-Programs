@@ -83,7 +83,7 @@ Output: `0, 1, 1, 2, 3`
 
 ## 📜 License
 
-Copyright (c) 2024 Hasan Imam
+Copyright (c) 2024 Hasan Imam <br/>
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it for educational purposes.
 
 ---
