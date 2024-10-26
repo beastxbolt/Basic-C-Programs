@@ -1,5 +1,5 @@
 /* 
-swap 2 numbers with 3rd variable
+swap 2 numbers without 3rd variable
 written by Hasan Imam 
 */
 #include <stdio.h>
