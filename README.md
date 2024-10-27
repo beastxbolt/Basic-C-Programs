@@ -1,14 +1,14 @@
 # 🖥️ Basic C Programs for Programming Problem Solving (PPS) 📘
 
-Welcome to the **Basic C Programs** repository! This project is part of my **Programming Problem Solving (PPS)** assignment for university, covering fundamental C programming exercises to enhance problem-solving skills. 
+Welcome to the **Basic C Programs** repository! This project is part of my **Programming Problem Solving (PPS)** assignment for university, covering fundamental C programming exercises to enhance problem-solving skills.
 
 ## 📋 Table of Contents
 
-- [Introduction](#introduction)
-- [Programs Included](#programs-included)
-- [How to Run](#how-to-run)
-- [Examples](#examples)
-- [License](#license)
+- [Introduction](#-introduction)
+- [Programs Included](#-programs-included)
+- [How to Run](#-how-to-run)
+- [Examples](#-examples)
+- [License](#-license)
 
 ---
 
