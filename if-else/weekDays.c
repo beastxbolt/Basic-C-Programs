@@ -1,5 +1,7 @@
-void weekDays(int n){
-     
+#include <stdio.h>
+
+int main(){
+    int n = 35;
     // circular switch case
     int day = n%7;
     switch(day){
@@ -31,4 +33,5 @@ void weekDays(int n){
         default:
             printf("Invalid Input");
     }
+    
 }

@@ -1,4 +1,7 @@
-int oddEven(int n){
+#include <stdio.h>
+
+int main(){
+    int n = 65;
 
     if(n%2==0){
         printf("Number %d is Even",n);
@@ -6,6 +9,7 @@ int oddEven(int n){
     else
         printf("Number %d is odd",n);
 
-    return 0;
-
+//getch();
+return 0;
 }
+

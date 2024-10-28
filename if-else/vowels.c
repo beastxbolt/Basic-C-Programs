@@ -1,5 +1,9 @@
-void vowels(char c){
-    switch(c){
+#include <stdio.h>
+
+int main(){
+    char c = 'a';
+
+     switch(c){
         case 'a':
             printf("Vowel");
             break;
@@ -18,4 +22,8 @@ void vowels(char c){
         default:
             printf("Consonant");
     }
+    
+    //getch();
+    return 0;
+
 }
