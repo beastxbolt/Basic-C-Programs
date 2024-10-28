@@ -37,27 +37,12 @@ Here's a list of C programs included in this repository:
 
 ## 🚀 How to Run
 
-1. **Clone the repository** to your local machine:
+1. Copy & Paste the code in any **[Online complier](https://www.programiz.com/c-programming/online-compiler/)**:
 
    ```bash
-   git clone https://github.com/codeIntrovert/C.git
-   cd c
+   https://www.programiz.com/c-programming/online-compiler/
    ```
-
-2. **Compile the C files** using a C compiler, such as `gcc`:
-
-   ```bash
-   gcc program_name.c -o program_name
-   ```
-
-3. **Run the compiled program**:
-
-   ```bash
-   ./program_name
-   ```
-
-Replace `program_name` with the actual file name, e.g., `reverse_number.c`.
-
+![Code and output](image.png)
 ---
 
 ## 💡 Examples
