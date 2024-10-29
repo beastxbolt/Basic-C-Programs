@@ -76,4 +76,6 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 **Happy Coding!** 👩‍💻  
 *Written, executed, and tested by Hasan.*
 
----
+<a href="https://github.com/codeintrovert/Basic-C-Programs/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=codeintrovert/Basic-C-Programs" />
+</a>
