@@ -18,5 +18,5 @@ int main()
 {
     int n = 321;
     int sumNum = sumOfDigits(n);
-    printf("Reverse of %d is: %d", n, sumNum);
+    printf("Sum of digits of %d is: %d", n, sumNum);
 }
